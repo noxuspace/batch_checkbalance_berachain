@@ -13,7 +13,7 @@ this project is for educational purpose for me to run how to optimize code to ru
 
 2.Clone the repository:
 ```
-git clone https://github.com/psasin36156/batch_balance_checker_berachain.git
+git clone https://github.com/noxuspace/batch_balance_checker_berachain.git
 cd batch_balance_checker_berachain
 ```
 3.Install the required packages
